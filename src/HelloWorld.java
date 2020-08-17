@@ -3,7 +3,7 @@
 //*****************************
 //THIS IS A TEST LINE
 //*************
-//PROBLEM AREA ONE ECLIPSE
+//PROBLEM AREA ONE GIT
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class HelloWorld {
 	}
 
 }
-//PROBLEM AREA TWO ECLIPSE
+//PROBLEM AREA TWO GIT
 //****************
 //THIS CHANGE WAS MADE ON ECLIPSE INSTEAD OF GITHUB
 //*************
