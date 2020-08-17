@@ -12,5 +12,5 @@ public class HelloWorld {
 }
 
 //****************
-//THIS CHANGE WAS MADE ON ECLIPSE INSTAED OF GITHUB
+//THIS CHANGE WAS MADE ON GITHUB INSTAED OF ECLIPSE
 //*************
