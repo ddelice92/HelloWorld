@@ -16,3 +16,5 @@ public class HelloWorld {
 //*************
 //HERE IS ANOTHER GITHUB LINE
 //THIS IS WHAT IS SHOULD LOOK LIKE
+
+//ECLIPSE LINE AT END
